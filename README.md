@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rishu Singh
+- 👀 I'm a Full stack developer
+- 🌱 I’m currently working on yelpcamp app
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 Email: rishusinghmm@gmail.com
