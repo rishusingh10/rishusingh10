@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishu Singh
-- 👀 I'm a Frontend developer
+- 👀 I'm a Web developer
 - 🌱 I’m currently working on yelpcamp app
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: https://www.linkedin.com/in/rishu-singh10/
