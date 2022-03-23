@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rishu Singh
-- 👀 I'm a Web developer
-- 🌱 I’m currently working on Sorting Visualizer
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I'm a Quality Analyst
+- 🌱 I’m currently working on learning new tools
 - 📫 How to reach me: https://www.linkedin.com/in/rishu-singh10/
